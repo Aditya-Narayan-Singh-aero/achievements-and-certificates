@@ -1,17 +1,11 @@
 # achievements-and-certificates
 
-Personal archive of achievements, certificates, medals, and completed courses
+Personal archive of achievements, certificates, medals, awards, and completed courses.
 
-## Suggested organization
+Upload photos and documents directly to this repository using descriptive
+filenames, for example:
 
-- `certificates/` - course and certification documents
-- `competitions/` - competition awards and participation records
-- `medals/` - photos and details of medals
-- `other-achievements/` - other accomplishments and recognition
+`2026-python-course-certificate.jpg`
 
-For each upload, use a descriptive filename such as
-`2026-python-course-certificate.jpg` and, when useful, add a short note with
-the date, organization, event, and result.
-
-This repository is private so that personal documents and photos remain
-restricted to you and collaborators you explicitly add.
+Keep any useful details, such as the date, organization, event, or result, in
+the filename or in a short note alongside the upload.
