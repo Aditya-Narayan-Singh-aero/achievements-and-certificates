@@ -18,3 +18,14 @@ competitions and learning.
 | **Recognition** | Certificate of Recognition |
 
 ![Konnect 2026 Biz Beats certificate](konnect-2026-biz-beats-2nd-position.jpg)
+
+### Debug the Campus — Certificate of Participation
+
+| Detail | Information |
+| --- | --- |
+| **Event** | Debug the Campus |
+| **Date** | 14 October 2026 |
+| **Recognition** | Certificate of Participation |
+| **Achievement** | Successfully solved the scavenger hunt and demonstrated analytical, teamwork, and problem-solving skills during the offline challenge |
+
+![Debug the Campus certificate](debug-the-campus-certificate-of-participation.png)
