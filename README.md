@@ -29,3 +29,15 @@ competitions and learning.
 | **Achievement** | Successfully solved the scavenger hunt and demonstrated analytical, teamwork, and problem-solving skills during the offline challenge |
 
 ![Debug the Campus certificate](debug-the-campus-certificate-of-participation.png)
+
+### Rocketry Workshop and Competition — Certificate of Participation
+
+| Detail | Information |
+| --- | --- |
+| **Event** | Rocketry Workshop and Competition |
+| **Program** | World Space Week 2026 |
+| **Organizer** | Department of Aerospace Engineering, SRM Institute of Science and Technology, Kattankulathur |
+| **Date** | 4–10 October 2026 |
+| **Recognition** | Certificate of Participation |
+
+[Rocketry Workshop and Competition certificate](rocketry-workshop-9-october-certificate.pdf)
