@@ -41,3 +41,19 @@ competitions and learning.
 | **Recognition** | Certificate of Participation |
 
 [Rocketry Workshop and Competition certificate](rocketry-workshop-9-october-certificate.pdf)
+
+### Creative Ingenuity ’26 — 2nd Prize
+
+| Detail | Information |
+| --- | --- |
+| **Result** | Secured **2nd prize** |
+| **Event** | Creative Ingenuity ’26 — Engineering Graphics Course (26MEE1002L) |
+| **Institution** | SRM Institute of Science and Technology, Kattankulathur |
+| **Date** | 26 November 2026 |
+| **Recognition** | Certificate of Appreciation |
+
+![Creative Ingenuity ’26 certificate](creative-ingenuity-26-certificate-of-appreciation.jpeg)
+
+![Creative Ingenuity ’26 second prize trophy](creative-ingenuity-26-second-prize-trophy.jpeg)
+
+![Creative Ingenuity ’26 award photo](creative-ingenuity-26-award-photo.jpeg)
